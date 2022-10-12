@@ -1,2 +1,8 @@
-# first-repo
- test repo
+# This is my first repo
+ some git practice
+## skills
+
+-
+-
+-
+
